@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/form/BanHangForm.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/form/SanPhamForm.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/repository/LichSuHoaDonRepository.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/config/DBConnect.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/repository/BanHangRepository.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/form/HoaDonForm.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/form/PhieuGiamGiaForm.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/respose/HoaDonChiTietResponse.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/respose/HoaDonResponse.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/respose/NhanVienResponse.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/repository/NhanVienRepository.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/form/NhanVienForm.java</file>
+            <file>file:/E:/code_dau_kho/DA/src/com/raven/repository/HoaDonChiTietRepository.java</file>
+        </group>
+    </open-files>
+</project-private>

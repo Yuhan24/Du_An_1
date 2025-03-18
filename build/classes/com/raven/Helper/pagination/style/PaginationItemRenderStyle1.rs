@@ -1,0 +1,1 @@
+pagination.style.PaginationItemRenderStyle1
